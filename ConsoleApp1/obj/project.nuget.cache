@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ievB5/lXA620QxTHGuSM+wP45ZkfEh4sn9R5xeiyayZNio4WkefTBFlEbS9I2XmquR+QrnP/PZJUo2lbW+n0gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\ZBRA\\ConsoleApp1\\Question1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
